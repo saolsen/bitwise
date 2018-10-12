@@ -36,7 +36,8 @@ bool flag_fullgen;
 #include "parse.c"
 #include "targets.c"
 #include "resolve.c"
-#include "gen.c"
+//#include "gen.c"
+#include "gen_wasm.c"
 #include "ion.c"
 #include "test.c"
 
